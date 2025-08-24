@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barcode Scanner Excel</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="clear">Clear</string>
+    <string name="ready">Ready</string>
+    <string name="last">Last: —</string>
+</resources>
